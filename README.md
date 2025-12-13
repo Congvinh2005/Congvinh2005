@@ -31,5 +31,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh05&layout=compact&theme=tokyonight)
 
 ---
+# Project basic
+  ## 🌐 Website
+[![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=googlechrome&logoColor=white)](https://congvinhshop.netlify.app/)
+![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat&logo=react&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-339933?style=flat&logo=node.js&logoColor=white)
+# Deploy basic
+[![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://congvinhshop.netlify.app/)
+
 
 ✨ *Nice to meet you!*
