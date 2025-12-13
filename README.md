@@ -2,7 +2,7 @@
 # Hi there 👋 I'm Đào Văn Vinh
 
 🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải  
-💻 
+💻 https://daovanvinh.netlify.app/
 🚀 Mục tiêu:  Software Engineer  
 
 ---
@@ -26,8 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Congvinh05&show_icons=true&theme=tokyonight
-https://daovanvinh.netlify.app/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Congvinh05&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh05&layout=compact&theme=tokyonight)
 
