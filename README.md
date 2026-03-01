@@ -1,7 +1,7 @@
 
-# Hi there 👋 I'm Đào Văn Vinh
+# Hello 👋 I'm Đào Văn Vinh
 
-🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải  
+🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải - UTT ( Hà Nội )
 💻 https://daovanvinh.netlify.app/
 💻 https://tinhdiemgpa-byvinh.onrender.com/
 
