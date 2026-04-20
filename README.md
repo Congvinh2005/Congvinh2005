@@ -1,12 +1,10 @@
 
 # Hello 👋 I'm Đào Văn Vinh
 
-🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải - UTT ( Hà Nội )
-💻 https://daovanvinh.netlify.app/
-💻 https://tinhdiemgpa-byvinh.onrender.com/
+🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải - UTT ( Hà Nội )  Studying....!
 
 🚀 Mục tiêu:  Software Engineer  
-
+  
 ---
 
 ## 🌐 Socials
@@ -28,20 +26,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Dự án của tôi
+## 🌐 Website
 
-[![Web tạo và chấm câu hỏi trắc nghiệm  ](https://img.shields.io/badge/Website-Lái%20xe%20an%20toàn-blue?style=for-the-badge)](https://laixeantoan.id.vn/)
+[![Portfolio cá nhân](https://img.shields.io/badge/Portfolio-Cá%20nhân-black?style=for-the-badge&logo=vercel&logoColor=white)](https://daovanvinh.netlify.app/)
 
-[![Web thương mại điện tử bán đồ di động](https://img.shields.io/badge/Website-Tiêu%20chuẩn%20cao-green?style=for-the-badge)](https://tieuchuancao.id.vn/)
+[![Web trắc nghiệm](https://img.shields.io/badge/Website-Trắc%20nghiệm%20online-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laixeantoan.id.vn/)
 
----
-# Project basic
-  ## 🌐 Website
-[![Web](https://img.shields.io/badge/Web-000000?style=flat&logo=googlechrome&logoColor=white)](https://congvinhshop.netlify.app/)
-![Frontend](https://img.shields.io/badge/Frontend-61DAFB?style=flat&logo=react&logoColor=black)
-![Backend](https://img.shields.io/badge/Backend-339933?style=flat&logo=node.js&logoColor=white)
-# Deploy basic
-[![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=flat&logo=netlify&logoColor=white)](https://congvinhshop.netlify.app/)
+[![Web thương mại điện tử](https://img.shields.io/badge/Website-Ecommerce%20Mobile-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tieuchuancao.id.vn/)
 
+[![Shop bán hàng](https://img.shields.io/badge/Website-Shop%20Online-red?style=for-the-badge&logo=shopify&logoColor=white)](https://congvinhshop.netlify.app/assets/box-html/)
+
+[![Web blog lớp](https://img.shields.io/badge/Website-Blog%20lớp-purple?style=for-the-badge&logo=blogger&logoColor=white)](https://tapthe12a1-thuyhuong.netlify.app/)
+
+[![Tính điểm GPA](https://img.shields.io/badge/Tool-Tính%20điểm%20GPA-orange?style=for-the-badge&logo=react&logoColor=white)](https://tinhdiemgpa-byvinh.onrender.com/)
 
 ✨ *Nice to meet you!*
