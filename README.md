@@ -29,9 +29,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Congvinh05&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh05&layout=compact&theme=tokyonight)
+[![Web tạo và chấm câu hỏi trắc nghiệm  ](https://img.shields.io/badge/Website-Lái%20xe%20an%20toàn-blue?style=for-the-badge)](https://laixeantoan.id.vn/)
+
+[![Web thương mại điện tử bán đồ di động](https://img.shields.io/badge/Website-Tiêu%20chuẩn%20cao-green?style=for-the-badge)](https://tieuchuancao.id.vn/)
 
 ---
 # Project basic
