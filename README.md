@@ -4,6 +4,8 @@
 🎓 Sinh viên Trường Đại học Công nghệ Giao thông Vận tải - UTT ( Hà Nội )  Studying....!
 
 🚀 Mục tiêu:  Software Engineer  
+Gihub phụ :
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daovinh05)
   
 ---
 
