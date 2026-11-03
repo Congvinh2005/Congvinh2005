@@ -22,6 +22,12 @@
 </div>
 
 ---
+Github phụ của vinh ở đây nha :
+<p align="center">
+  <a href="https://github.com/Daovinh05">
+    <img src="https://img.shields.io/badge/%E2%AD%90_GitHub_Ph%E1%BB%A5_Click_Here-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
